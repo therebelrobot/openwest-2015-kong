@@ -22,7 +22,6 @@ There are many things needed when managing distributed APIs, and can lead to a l
 - **Admin CLI**: Control your Kong cluster from the command line just like Neo in The Matrix.
 - **Admin REST API**: Kong can be operated with its RESTful API for maximum flexibility.
 - **Scalable**: Distributed by nature, Kong scales horizontally simply by adding nodes.
-- **
 - **Built for Performance**: Kong handles load with ease by scaling and using NGINX at the core.
 - **Open Source**: Kong is built on nginx and Lua, and the source code is available under the MIT license.
 - **Runs on most systems**: Kong binaries are available for most server architectures, including Docker, CentOS, Debian, Ubuntu, even Mac OS X
