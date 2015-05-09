@@ -2,9 +2,7 @@
 
 ![Kong](./kong-small.png) 
 
-[getkong.org](http://getkong.org)
-
-Trent Oswald - Full Stack Engineer at Mashape - [@therebelrobot](http://twitter.com/therebelrobot)
+[getkong.org](http://getkong.org) - Presented by Trent Oswald - Full Stack Engineer at Mashape - [@therebelrobot](http://twitter.com/therebelrobot)
 
 *For Enterprise-specific questions, please contact us at [getkong.org/enterprise](http://getkong.org/enterprise/)*
 
