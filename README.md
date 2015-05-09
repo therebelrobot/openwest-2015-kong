@@ -1,6 +1,6 @@
 # Distributed API Management using [Kong](http://getkong.org)
 
-![Kong](./kong-small.png)
+![Kong](./kong-small.png) 
 
 [getkong.org](http://getkong.org)
 
@@ -21,7 +21,6 @@ There are many things needed when managing distributed APIs, and can lead to a l
 - **Scalable**: Distributed by nature, Kong scales horizontally simply by adding nodes.
 - **Built for Performance**: Kong handles load with ease by scaling and using NGINX at the core.
 - **Open Source**: Kong is built on nginx and Lua, and the source code is available under the MIT license.
-- **Runs on most systems**: Kong binaries are available for most server architectures, including Docker, CentOS, Debian, Ubuntu, even Mac OS X
 - **Extendable Plugin Architecture**: Need custom functionality? Extend Kong with your own Lua plugins!
 
 - **Single-Point Proxy**: One location to route all of your API microservices, internal, external, or third-party
