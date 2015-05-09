@@ -6,6 +6,8 @@
 
 *For Enterprise-specific questions, please contact us at [getkong.org/enterprise](http://getkong.org/enterprise/)*
 
+## Distributed microservices are tricky
+
 There are many things needed when managing distributed APIs, and can lead to a lot of code duplication:
 
 ![Server Structure](./server-structures.png)
