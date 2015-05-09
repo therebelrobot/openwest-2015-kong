@@ -1,5 +1,7 @@
 # Distributed API Management using [Kong](http://getkong.org)
 
+![Kong](./kong-small.png)
+
 [getkong.org](http://getkong.org)
 
 Trent Oswald - Full Stack Engineer at Mashape - [@therebelrobot](http://twitter.com/therebelrobot)
@@ -10,12 +12,7 @@ Trent Oswald - Full Stack Engineer at Mashape - [@therebelrobot](http://twitter.
 
 There are many things needed when managing distributed APIs, and can lead to a lot of code duplication:
 
-- Rate Limiting
-- Authentication
-- Logging
-- Monitoring
-- Transformations
-- CORS
+![Server Structure](./server-structures.png)
 
 ## Kong is designed to make it easier
 
