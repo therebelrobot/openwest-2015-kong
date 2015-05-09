@@ -6,13 +6,11 @@
 
 *For Enterprise-specific questions, please contact us at [getkong.org/enterprise](http://getkong.org/enterprise/)*
 
-## Distributed APIs is hard
-
 There are many things needed when managing distributed APIs, and can lead to a lot of code duplication:
 
 ![Server Structure](./server-structures.png)
 
-## Kong is designed to make it easier
+## Kong is designed to make your life easier
 
 - **Admin CLI**: Control your Kong cluster from the command line just like Neo in The Matrix.
 - **Admin REST API**: Kong can be operated with its RESTful API for maximum flexibility.
