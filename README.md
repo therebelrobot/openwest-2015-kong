@@ -4,6 +4,8 @@
 
 [getkong.org](http://getkong.org) - Presented by Trent Oswald - Full Stack Engineer at Mashape - [@therebelrobot](http://twitter.com/therebelrobot)
 
+Slides: https://docs.google.com/presentation/d/1n_YEW0UusqtSl8Jkg8Hx65gbSr3H0zPROUq1UYMKTGc/edit?usp=sharing
+
 *For Enterprise-specific questions, please contact us at [getkong.org/enterprise](http://getkong.org/enterprise/)*
 
 ## Distributed microservices are tricky
