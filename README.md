@@ -24,8 +24,6 @@ There are many things needed when managing distributed APIs, and can lead to a l
 - **Runs on most systems**: Kong binaries are available for most server architectures, including Docker, CentOS, Debian, Ubuntu, even Mac OS X
 - **Extendable Plugin Architecture**: Need custom functionality? Extend Kong with your own Lua plugins!
 
-### Kong Core Features
-
 - **Single-Point Proxy**: One location to route all of your API microservices, internal, external, or third-party
 - **Logging**: Log requests and responses to your system over TCP, UDP or to disk.
 - **Monitoring**: Live monitoring provides key load and performance server metrics.
